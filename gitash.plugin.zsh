@@ -1,0 +1,7 @@
+alias gpr='git pull --rebase'
+alias gps='git push'
+alias gprm='git pull origin main --rebase'
+alias gst='git status'
+alias gcm='git commit -m'
+alias gap='git add -p'
+alias ga='git add'
